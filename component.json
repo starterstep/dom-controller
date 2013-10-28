@@ -1,0 +1,10 @@
+{
+    "name":"dom-controller",
+    "dependencies":{
+        "component/emitter":"*",
+        "component/dom":"*"
+    },
+    "scripts": [
+        "index.js"
+    ]
+}
